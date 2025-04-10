@@ -6,13 +6,7 @@
 
 <br clear="both">
 
-<h3 align="left">I'm a otaku geek Software Developer</h3>
-
-###
-
-<br clear="both">
-
-<h3 align="left">Always improving myself!</h3>
+<h3 align="left">I'm a otaku geek Software Developer.  Always improving myself!</h3>
 
 ###
 
